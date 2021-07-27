@@ -2,9 +2,12 @@
 트위터 마크업 챌린지
 
 ## 개발환경
-- HTML
+- 구름IDE or VSCode
 
-## Table of Contents
+## 마크업 언어
+- HTML5
+- 
+## 개발순서
 
 1. Header
 2. Global Navigation
