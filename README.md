@@ -9,6 +9,7 @@
 
 ## 개발목적
 - HTML의 태그 활용과 Selectiong Elements 사용 방법 공부
+- 시맨틱 마크업 
 
 ## 개발순서
 
