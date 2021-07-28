@@ -1,0 +1,39 @@
+<!--새로운 영역의 시작을 위해-->
+<!--heading 사용, 눈에 보이지 않게 처리 할 수 있기 때문에-->
+<!--문법적으로 사용하는게 올바르다-->
+<section>
+	<h1>What's happening?</h1> <!--heading-->
+	
+	<form action="#" method="POST">
+		<img src="#" alt="user-id">
+		
+		<textarea placeholder="What's happening" maxlength="280"></textarea>
+		
+		<button type="button" aria-label="Upload files">
+			<!--icon-->
+		</button>
+		<!--위의 버튼을 생성한 이유는 input 태그는 스타일을 적용할 수  	없고 button을 만들어 input이 실행되는 자바 스크립트 만들기 위해-->
+		<input type="file" multiple accept="image/*"/>
+		
+		<button type="button" aria-label="Search GiF..">
+			<!--icon-->
+		</button>
+		<button type="button" aria-label="Creat a poll">
+			<!--icon-->
+		</button>
+		<button type="button" aria-label="Choose emoji">
+			<!--icon-->
+		</button>
+		
+		<!--글자가 입력되면 게이지가 올라감, 자바 스크립트 영역-->
+		<strong aria-label="0 out of 280 characters">
+		</strong>
+		
+		<button type="button" aria-label="Add another Tweet">
+			<!--icon-->
+		</button>
+		<button type="submit">
+			Tweet
+		</button>
+	</form>
+</section>
