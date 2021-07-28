@@ -21,7 +21,7 @@
 6. Tweet
 7. Aside
 8. Footer
-9. End
+9. Finish + 느낀점
 
 ## 참고화면
 ![트위터](https://user-images.githubusercontent.com/87301268/127248932-519c085b-d96c-4788-88e2-d0b0551ae6e4.JPG)
